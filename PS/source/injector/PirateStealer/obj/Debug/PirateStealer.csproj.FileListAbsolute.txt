@@ -1,8 +1,0 @@
-C:\Users\razvyc\Desktop\PirateStealer-main\source\Injector\PirateStealer\bin\Debug\PirateStealer.exe.config
-C:\Users\razvyc\Desktop\PirateStealer-main\source\Injector\PirateStealer\bin\Debug\PirateStealer.exe
-C:\Users\razvyc\Desktop\PirateStealer-main\source\Injector\PirateStealer\bin\Debug\PirateStealer.pdb
-C:\Users\razvyc\Desktop\PirateStealer-main\source\Injector\PirateStealer\obj\Debug\PirateStealer.csproj.SuggestedBindingRedirects.cache
-C:\Users\razvyc\Desktop\PirateStealer-main\source\Injector\PirateStealer\obj\Debug\PirateStealer.csproj.CoreCompileInputs.cache
-C:\Users\razvyc\Desktop\PirateStealer-main\source\Injector\PirateStealer\obj\Debug\PirateStealer.exe
-C:\Users\razvyc\Desktop\PirateStealer-main\source\Injector\PirateStealer\obj\Debug\PirateStealer.pdb
-C:\Users\razvyc\Desktop\PirateStealer-main\source\Injector\PirateStealer\obj\Debug\PirateStealer.csproj.AssemblyReference.cache
